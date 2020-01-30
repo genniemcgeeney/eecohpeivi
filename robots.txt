@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeyeichose.kododojo.com/sitemap.xml
